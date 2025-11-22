@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
@@ -16,7 +16,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 - **URL Shortening**: Convert long URLs into short, shareable links
 - **Custom Short Codes**: Create personalized short codes or use auto-generated ones
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend (Client)
 - **[Next.js 16](https://nextjs.org/)** - React framework with App Router
@@ -51,7 +51,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tinylink/
@@ -83,7 +83,7 @@ tinylink/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -140,7 +140,7 @@ tinylink/
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Base URL: `/api/links`
 
@@ -165,7 +165,7 @@ tinylink/
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 This project is designed to be deployed on free hosting platforms:
 
@@ -177,7 +177,7 @@ See [deployment.md](./deployment.md) for detailed deployment instructions.
 
 ---
 
-## 🔍 How It Works
+## How It Works
 
 ### Database Schema (Link Model)
 
@@ -213,13 +213,13 @@ See [deployment.md](./deployment.md) for detailed deployment instructions.
 
 ---
 
-## 📝 License
+## License
 
 This project is open source and available for educational purposes.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this project and submit pull requests for improvements!
 
