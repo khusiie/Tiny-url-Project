@@ -60,7 +60,7 @@ tinylink/
 │ │ ├── app/ # Next.js App Router pages
 │ │ │ ├── page.tsx # Main dashboard page
 │ │ │ ├── layout.tsx # Root layout
-│ │ │ ├── globals.css
+│ │ │ ├── globals.css # Global styles
 │ │ │ └── code/ # Stats page for individual links
 │ │ └── lib/ # Utility functions
 │ ├── public/ # Static assets
@@ -78,7 +78,7 @@ tinylink/
 │ └── .env # Environment variables
 │
 ├── deployment.md # Deployment instructions
-└── README.md # This file
+└── README.md # Project README
 
 
 ---
