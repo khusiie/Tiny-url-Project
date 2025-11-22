@@ -83,7 +83,7 @@ tinylink/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -133,10 +133,9 @@ Start the Client (from client directory):
 
 npm run dev
 
-
 Client runs on http://localhost:3000
 
-🔌 API Endpoints
+## API Endpoints
 
 Base URL: /api/links
 
@@ -155,7 +154,8 @@ Health Check
 
 Method	Endpoint	Description
 GET	/healthz	Server health check
-🌐 Deployment
+
+## Deployment
 
 Frontend: Vercel (recommended for Next.js)
 
@@ -165,7 +165,7 @@ Database: MongoDB Atlas (free tier available)
 
 See deployment.md for detailed deployment instructions.
 
-🔍 How It Works
+## How It Works
 Database Schema (Link Model)
 {
   "code": "abc123",           // Unique short code
@@ -175,7 +175,7 @@ Database Schema (Link Model)
   "createdAt": "2025-01-01T00:00:00Z"
 }
 
-Workflow
+## Workflow
 
 User submits a URL on the dashboard
 
@@ -195,7 +195,7 @@ Updates the lastClickedAt timestamp
 
 Redirects to the original URL
 
-Key Features Implementation
+## Key Features Implementation
 
 Unique Code Generation: Uses a random character generator with collision checking
 
@@ -207,20 +207,14 @@ Error Handling: Validates URLs, handles 404s for non-existent codes
 
 CORS Enabled: Frontend and backend can run on different domains
 
-📝 License
+## License
 
 This project is open source and available for educational purposes.
 
-🤝 Contributing
+## Contributing
 
 Feel free to fork this project and submit pull requests for improvements!
-
-
 ---
 
-This is a **fully formatted GitHub README** with all sections you wrote, ready to push.  
 
-If you want, I can also make a **shorter, cleaner version with badges and links** that looks more professional on GitHub’s main page.  
-
-Do you want me to do that?
 
