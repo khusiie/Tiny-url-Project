@@ -54,6 +54,7 @@ TinyLink is a modern, full-stack URL shortening application that allows users to
 ---
 
 ##  Project Structure
+
 tinylink/
 ├── client/ # Next.js frontend application
 │ ├── src/
@@ -79,7 +80,6 @@ tinylink/
 │
 ├── deployment.md # Deployment instructions
 └── README.md # Project README
-
 
 ---
 
